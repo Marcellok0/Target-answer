@@ -1,0 +1,15 @@
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\bin\Debug\net6.0\String-Invertida.exe
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\bin\Debug\net6.0\String-Invertida.deps.json
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\bin\Debug\net6.0\String-Invertida.runtimeconfig.json
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\bin\Debug\net6.0\String-Invertida.dll
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\bin\Debug\net6.0\String-Invertida.pdb
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\obj\Debug\net6.0\String-Invertida.csproj.AssemblyReference.cache
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\obj\Debug\net6.0\String-Invertida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\obj\Debug\net6.0\String-Invertida.AssemblyInfoInputs.cache
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\obj\Debug\net6.0\String-Invertida.AssemblyInfo.cs
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\obj\Debug\net6.0\String-Invertida.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\obj\Debug\net6.0\String-Invertida.dll
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\obj\Debug\net6.0\refint\String-Invertida.dll
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\obj\Debug\net6.0\String-Invertida.pdb
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\obj\Debug\net6.0\String-Invertida.genruntimeconfig.cache
+C:\Users\Marvin\Desktop\Target-answer\String-Invertida\String-Invertida\obj\Debug\net6.0\ref\String-Invertida.dll

@@ -1,0 +1,15 @@
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\bin\Debug\net6.0\PercentualEstado.exe
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\bin\Debug\net6.0\PercentualEstado.deps.json
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\bin\Debug\net6.0\PercentualEstado.runtimeconfig.json
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\bin\Debug\net6.0\PercentualEstado.dll
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\bin\Debug\net6.0\PercentualEstado.pdb
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\obj\Debug\net6.0\PercentualEstado.csproj.AssemblyReference.cache
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\obj\Debug\net6.0\PercentualEstado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\obj\Debug\net6.0\PercentualEstado.AssemblyInfoInputs.cache
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\obj\Debug\net6.0\PercentualEstado.AssemblyInfo.cs
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\obj\Debug\net6.0\PercentualEstado.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\obj\Debug\net6.0\PercentualEstado.dll
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\obj\Debug\net6.0\refint\PercentualEstado.dll
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\obj\Debug\net6.0\PercentualEstado.pdb
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\obj\Debug\net6.0\PercentualEstado.genruntimeconfig.cache
+C:\Users\Marvin\Desktop\Target-answer\PercentualEstado\PercentualEstado\obj\Debug\net6.0\ref\PercentualEstado.dll

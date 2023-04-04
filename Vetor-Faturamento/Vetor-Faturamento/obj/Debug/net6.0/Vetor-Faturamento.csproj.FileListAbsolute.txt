@@ -1,0 +1,17 @@
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\bin\Debug\net6.0\Vetor-Faturamento.exe
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\bin\Debug\net6.0\Vetor-Faturamento.deps.json
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\bin\Debug\net6.0\Vetor-Faturamento.runtimeconfig.json
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\bin\Debug\net6.0\Vetor-Faturamento.dll
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\bin\Debug\net6.0\Vetor-Faturamento.pdb
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\obj\Debug\net6.0\Vetor-Faturamento.csproj.AssemblyReference.cache
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\obj\Debug\net6.0\Vetor-Faturamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\obj\Debug\net6.0\Vetor-Faturamento.AssemblyInfoInputs.cache
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\obj\Debug\net6.0\Vetor-Faturamento.AssemblyInfo.cs
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\obj\Debug\net6.0\Vetor-Faturamento.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\obj\Debug\net6.0\Vetor-Faturamento.csproj.CopyComplete
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\obj\Debug\net6.0\Vetor-Faturamento.dll
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\obj\Debug\net6.0\refint\Vetor-Faturamento.dll
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\obj\Debug\net6.0\Vetor-Faturamento.pdb
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\obj\Debug\net6.0\Vetor-Faturamento.genruntimeconfig.cache
+C:\Users\Marvin\Desktop\Target-answer\Vetor-Faturamento\Vetor-Faturamento\obj\Debug\net6.0\ref\Vetor-Faturamento.dll
